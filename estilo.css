@@ -226,3 +226,7 @@ border-color: white;
 h1{
     font-family:monospace;
 }
+
+@media screen and (max-width:800px){
+    
+}
